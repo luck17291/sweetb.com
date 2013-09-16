@@ -1,0 +1,41 @@
+body {
+font: .81em/150% Georgia, "Times New Roman", Times, serif;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 0.81em;
+font-style: normal;
+font-variant: normal;
+font-weight: normal;
+line-height: 150%;
+background-image: url(/sweetb.com/assests/images/body-bg.jpg);
+color: #9c9c9c;
+}
+
+.header{
+position: relative;
+height: auto;
+}
+
+.body{
+	
+	display: block;
+}
+
+.footer{
+	clear: both;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.main-nav li{
+	display:inline-block;
+	list-style: none;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.header-banner a{
+	display: block;
+	width: 100%;
+	height: 100px;
+	line-height: 100%;
+}
