@@ -17,5 +17,8 @@
 		<li>Boys</li>
 		<li>Top 20</li>
 		<li>Other</li>
+		<li>
+			<input type="text" />
+		</li>
 	</ul>
 </nav>

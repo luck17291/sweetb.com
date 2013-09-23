@@ -9,6 +9,8 @@
 			<?php $this->load->view("top");?>
 		</header>
 		<div id="middle">this is body!</div>
-		<footer id="footer">this is footer</footer>
+		<footer id="footer">
+			<?php $this->load->view("bottom");?>
+		</footer>
 	</body>
 </html>

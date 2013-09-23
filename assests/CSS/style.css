@@ -19,6 +19,18 @@ ul
 	margin: 0px;
 }
 
+h1{
+	padding: 0px;
+	margin: 0px;
+}
+	
+h6{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
 #header{
 	margin-bottom:2px;
 	position: relative;
@@ -31,9 +43,21 @@ ul
 	display: inline-block;
 }
 
+.top-banner hgroup
+{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.header-banner
+{
+	margin-right: 30px;
+	margin-top: 10px;
+}
+
 #middle{
 	display: block;
-	height: 1000px;
+	height: 300px;
 	background-image: url(/sweetb.com/assests/images/middle-bg.jpg);
 }
 
@@ -60,6 +84,8 @@ ul
 
 #footer
 {
+	padding-top: 50px;
+	padding-bottom:50px;
 	clear: both;
 	text-align: center;
 	margin-top:2px;
