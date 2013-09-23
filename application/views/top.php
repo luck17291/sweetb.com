@@ -2,7 +2,7 @@
 	<div>
 		<hgroup>
 			<h1>SweetB.com</h1>
-			<h2>Best Gallery Gay</h2>
+			<h2>Best Gay Gallery</h2>
 		</hgroup>
 	</div>
 	<div class="header-banner">
