@@ -1,13 +1,13 @@
 
 body {
-font: .81em/150% Georgia, "Times New Roman", Times, serif;
-font-family: Georgia, 'Times New Roman', Times, serif;
+width:900px;
+position:
 font-size: 0.81em;
 font-style: normal;
 font-variant: normal;
 font-weight: normal;
 line-height: 150%;
-margin:0px;
+margin:0px auto;
 padding:0px;
 background-color: black;
 color: #9c9c9c;
@@ -43,6 +43,19 @@ h6{
 	display: inline-block;
 }
 
+#header h1
+{
+	font: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	text-shadow: 2px 3px 5px #FF8000;
+	color: #fff;
+}
+
+#header h2
+{
+	font: italic 120%/100% "Times New Roman", Times, serif;
+}
+
 .top-banner hgroup
 {
 	margin-top: 20px;
@@ -67,6 +80,8 @@ h6{
 	list-style: none;
 	margin-left: 10px;
 	margin-right: 10px;
+	font: 100%/100% Oswald, Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
 }
 
 .header-banner
