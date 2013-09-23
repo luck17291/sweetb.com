@@ -7,9 +7,16 @@ font-style: normal;
 font-variant: normal;
 font-weight: normal;
 line-height: 150%;
-
+margin:0px;
+padding:0px;
 background-color: black;
 color: #9c9c9c;
+}
+
+ul
+{
+	padding: 0px;
+	margin: 0px;
 }
 
 #header{
@@ -30,9 +37,6 @@ color: #9c9c9c;
 	background-image: url(/sweetb.com/assests/images/middle-bg.jpg);
 }
 
-.main-nav{
-	margin: none;
-}
 
 .main-nav li{
 	display:inline-block;

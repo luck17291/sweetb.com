@@ -9,15 +9,13 @@
 		<img src="/sweetb.com/assests/images/banner.png"/>
 	</div>
 </div>
-<dir>
-	<nav>
-		<ul class="main-nav">
-			<li>Home</li>
-			<li>My Gallery</li>
-			<li>Anime</li>
-			<li>Boys</li>
-			<li>Top 20</li>
-			<li>Other</li>
-		</ul>
-	</nav>
-</dir>
+<nav>
+	<ul class="main-nav">
+		<li>Home</li>
+		<li>My Gallery</li>
+		<li>Anime</li>
+		<li>Boys</li>
+		<li>Top 20</li>
+		<li>Other</li>
+	</ul>
+</nav>
