@@ -1,7 +1,14 @@
-<hgroup>
-	<h1>SweetB.com</h1>
-	<h2>Best Gallery Gay</h2>
-</hgroup>
+<div class="top-banner">
+	<div>
+		<hgroup>
+			<h1>SweetB.com</h1>
+			<h2>Best Gallery Gay</h2>
+		</hgroup>
+	</div>
+	<div class="header-banner">
+		<img src="/sweetb.com/assests/images/banner.png"/>
+	</div>
+</div>
 <nav>
 	<ul class="main-nav">
 		<li>Home</li>
@@ -12,6 +19,3 @@
 		<li>Other</li>
 	</ul>
 </nav>
-<div class="header-banner">
-	<a href="/sweetb.com/assests/images/banner.png"></a>
-</div>

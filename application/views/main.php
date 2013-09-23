@@ -8,9 +8,7 @@
 		<header id="header">
 			<?php $this->load->view("top");?>
 		</header>
-		
-		<div class="line_header"></div>
-		<div id="body">this is body!</div>
+		<div id="middle">this is body!</div>
 		<footer id="footer">this is footer</footer>
 	</body>
 </html>
