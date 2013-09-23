@@ -1,0 +1,63 @@
+
+body {
+font: .81em/150% Georgia, "Times New Roman", Times, serif;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 0.81em;
+font-style: normal;
+font-variant: normal;
+font-weight: normal;
+line-height: 150%;
+
+background-color: black;
+color: #9c9c9c;
+}
+
+#header{
+	margin-bottom:2px;
+	position: relative;
+	height: auto;
+	background-image: url(/sweetb.com/assests/images/body-bg.jpg);
+}
+
+#header .top-banner div
+{
+	display: inline-block;
+}
+
+#middle{
+	display: block;
+	height: 1000px;
+	background-image: url(/sweetb.com/assests/images/middle-bg.jpg);
+}
+
+.main-nav{
+	margin: none;
+}
+
+.main-nav li{
+	display:inline-block;
+	list-style: none;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.header-banner
+{
+	float:right;
+	position: relative;
+	display: inline-block;
+}
+
+.header-banner img
+{
+	width: 179;
+	height: 107;
+}
+
+#footer
+{
+	clear: both;
+	text-align: center;
+	margin-top:2px;
+	background-image: url(/sweetb.com/assests/images/body-bg.jpg);
+}
